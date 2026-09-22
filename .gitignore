@@ -1,0 +1,18 @@
+# Build output
+build/
+*.exe
+*.o
+*.obj
+*.a
+*.dll
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
